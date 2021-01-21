@@ -22,7 +22,7 @@
         <servlet.version>2.5</servlet.version>
         <jetbrick-template.version>2.0.10</jetbrick-template.version>
         <spring.data.version>1.7.2.RELEASE</spring.data.version>
-        <jackson.version>2.3.3</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <junit.version>4.11</junit.version>
         <guava.version>16.0.1</guava.version>
     </properties>
